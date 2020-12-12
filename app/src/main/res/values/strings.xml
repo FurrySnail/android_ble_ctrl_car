@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BLE_Test</string>
+    <string name="ledon">Led On</string>
+    <string name="ledoff">Led Off</string>
+    <string name="ahead">Go ahead</string>
+    <string name="back">Go back</string>
+    <string name="left">Turn left</string>
+    <string name="right">Turn right</string>
+    <string name="stop">STOP</string>
+</resources>
